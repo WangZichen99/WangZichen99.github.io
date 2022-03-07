@@ -6,7 +6,18 @@
     <description>Recent content on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 06 Mar 2022 21:42:00 +0800</lastBuildDate><atom:link href="https://WangZichen99.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Mar 2022 18:24:52 +0800</lastBuildDate><atom:link href="https://WangZichen99.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mybatis笔记</title>
+      <link>https://WangZichen99.github.io/post/mybatisnote/</link>
+      <pubDate>Mon, 07 Mar 2022 18:24:52 +0800</pubDate>
+      
+      <guid>https://WangZichen99.github.io/post/mybatisnote/</guid>
+      <description>Mybatis 1、第一个Mybatis程序 1.1、搭建环境 搭建数据库：
+CREATE DATABASE `mybatis`;  USE `mybatis`;  CREATE TABLE `user` (  `id` INT(20) NOT NULL PRIMARY KEY,  `name` VARCHAR(30) DEFAULT NULL,  `pwd` VARCHAR(30) DEFAULT NULL )ENGINE = INNODB DEFAULT CHARSET = utf8; 新建项目：
+ 新建一个maven项目 删除src目录 导入maven依赖  &amp;lt;dependencies&amp;gt;  &amp;lt;!--mysql驱动--&amp;gt;  &amp;lt;dependency&amp;gt;  &amp;lt;groupId&amp;gt;mysql&amp;lt;/groupId&amp;gt;  &amp;lt;artifactId&amp;gt;mysql-connector-java&amp;lt;/artifactId&amp;gt;  &amp;lt;version&amp;gt;8.0.25&amp;lt;/version&amp;gt;  &amp;lt;/dependency&amp;gt;  &amp;lt;!--mybatis--&amp;gt;  &amp;lt;dependency&amp;gt;  &amp;lt;groupId&amp;gt;org.mybatis&amp;lt;/groupId&amp;gt;  &amp;lt;artifactId&amp;gt;mybatis&amp;lt;/artifactId&amp;gt;  &amp;lt;version&amp;gt;3.5.6&amp;lt;/version&amp;gt;  &amp;lt;/dependency&amp;gt;  &amp;lt;dependency&amp;gt;  &amp;lt;groupId&amp;gt;junit&amp;lt;/groupId&amp;gt;  &amp;lt;artifactId&amp;gt;junit&amp;lt;/artifactId&amp;gt;  &amp;lt;version&amp;gt;4.</description>
+    </item>
+    
     <item>
       <title>我的第一篇博客</title>
       <link>https://WangZichen99.github.io/post/myfirstblog/</link>
