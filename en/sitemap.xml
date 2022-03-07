@@ -2,66 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://WangZichen99.github.io/</loc>
-    <lastmod>2022-03-06T21:42:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://WangZichen99.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://WangZichen99.github.io/pl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://WangZichen99.github.io/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://WangZichen99.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://WangZichen99.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://WangZichen99.github.io/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://WangZichen99.github.io/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://WangZichen99.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://WangZichen99.github.io/nl/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://WangZichen99.github.io/"
-                />
-  </url><url>
-    <loc>https://WangZichen99.github.io/post/myfirstblog/</loc>
-    <lastmod>2022-03-06T21:42:00+08:00</lastmod>
-  </url><url>
-    <loc>https://WangZichen99.github.io/post/</loc>
-    <lastmod>2022-03-06T21:42:00+08:00</lastmod>
-  </url><url>
-    <loc>https://WangZichen99.github.io/categories/</loc>
+    <loc>https://WangZichen99.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -90,7 +31,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://WangZichen99.github.io/zh-cn/categories/"
+                href="https://WangZichen99.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -110,10 +51,62 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://WangZichen99.github.io/categories/"
+                href="https://WangZichen99.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://WangZichen99.github.io/tags/</loc>
+    <loc>https://WangZichen99.github.io/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://WangZichen99.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://WangZichen99.github.io/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://WangZichen99.github.io/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://WangZichen99.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://WangZichen99.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://WangZichen99.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://WangZichen99.github.io/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://WangZichen99.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://WangZichen99.github.io/nl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://WangZichen99.github.io/en/"
+                />
+  </url><url>
+    <loc>https://WangZichen99.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -142,7 +135,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://WangZichen99.github.io/zh-cn/tags/"
+                href="https://WangZichen99.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -162,7 +155,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://WangZichen99.github.io/tags/"
+                href="https://WangZichen99.github.io/en/tags/"
                 />
   </url>
 </urlset>
