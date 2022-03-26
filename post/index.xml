@@ -6,7 +6,41 @@
     <description>Recent content in Post on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 07 Mar 2022 18:24:52 +0800</lastBuildDate><atom:link href="https://WangZichen99.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Mar 2022 20:07:42 +0800</lastBuildDate><atom:link href="https://WangZichen99.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>认知觉醒读书笔记</title>
+      <link>https://WangZichen99.github.io/post/cognitiveawakennote/</link>
+      <pubDate>Sat, 26 Mar 2022 20:07:42 +0800</pubDate>
+      
+      <guid>https://WangZichen99.github.io/post/cognitiveawakennote/</guid>
+      <description>认知觉醒读书笔记 1.1、大脑：重新认识你自己 三层大脑
+  演进过程  爬行动物 本能脑  哺乳动物 情绪脑  人类 理智脑    三层大脑对比 本能脑 低级 强大 婴儿时期趋于完善（2岁） 神经元细胞数量多，距离心脏近 运行速度快 控制大脑能力强 更接近原始社会-生存-及时享乐、避难趋易、急于求成  情绪脑 低级 次强 青春期早期（12岁）  理智脑 高级 弱小 成年早期（22岁） 数量少，距离远 速度慢且耗能 控制大脑能力弱 更接近现代社会   结果
+ 明知读书重要，却转身掏出手机 明知跑步有益，却两天没了下文 明知要事优先，却围绕琐事打转  大多数时候我们以为自己在思考，实则都是对自身行为和欲望的合理化
+成长是克服天性的过程
+提升理智脑 ≠ 削弱本能脑和情绪脑
+理智脑指挥，本能脑行动</description>
+    </item>
+    
+    <item>
+      <title>Spring笔记</title>
+      <link>https://WangZichen99.github.io/post/springnote/</link>
+      <pubDate>Mon, 07 Mar 2022 19:27:31 +0800</pubDate>
+      
+      <guid>https://WangZichen99.github.io/post/springnote/</guid>
+      <description>Spring学习笔记 1、介绍 1.1、导包 导入spring-webmvc和spring-jdbc
+&amp;lt;project&amp;gt;  &amp;lt;dependency&amp;gt;  &amp;lt;groupId&amp;gt;org.springframework&amp;lt;/groupId&amp;gt;  &amp;lt;artifactId&amp;gt;spring-webmvc&amp;lt;/artifactId&amp;gt;  &amp;lt;version&amp;gt;5.2.0.RELEASE&amp;lt;/version&amp;gt;  &amp;lt;/dependency&amp;gt;  &amp;lt;dependency&amp;gt;  &amp;lt;groupId&amp;gt;org.springframework&amp;lt;/groupId&amp;gt;  &amp;lt;artifactId&amp;gt;spring-jdbc&amp;lt;/artifactId&amp;gt;  &amp;lt;version&amp;gt;5.2.0.RELEASE&amp;lt;/version&amp;gt;  &amp;lt;/dependency&amp;gt; &amp;lt;/project&amp;gt; 1.2、优点   开源免费
+  轻量级、非入侵式
+  控制反转（IOC）、面向切面编程（AOP）
+  支持事务处理，对框架整合的支持
+  总结：Spring就是一个轻量级的控制反转（IOC）和面向切面编程（AOP）的框架
+1.3、组成 1.4、拓展 在Spring官网有这个介绍：现代化的java开发，就是基于Spring的开发
+Spring Boot：Build Anything
+Spring Cloud：Coordinate Anything
+Spring Cloud Data Flow：Connect Everything
+  Spring Boot
+ 一个快速开发的脚手架 基于Spring Boot可以快速的开发单个微服务 约定大于配置    Spring Cloud</description>
+    </item>
+    
     <item>
       <title>Mybatis笔记</title>
       <link>https://WangZichen99.github.io/post/mybatisnote/</link>
