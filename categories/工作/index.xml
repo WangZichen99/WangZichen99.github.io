@@ -6,7 +6,18 @@
     <description>Recent content in 工作 on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 07 Mar 2022 19:27:31 +0800</lastBuildDate><atom:link href="https://WangZichen99.github.io/categories/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Mar 2022 10:35:20 +0800</lastBuildDate><atom:link href="https://WangZichen99.github.io/categories/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SpringMVC笔记</title>
+      <link>https://WangZichen99.github.io/post/springmvcnote/</link>
+      <pubDate>Sat, 12 Mar 2022 10:35:20 +0800</pubDate>
+      
+      <guid>https://WangZichen99.github.io/post/springmvcnote/</guid>
+      <description>SpringMVC 1、SpringMVC执行原理  用户访问后首先被web.xml中的DispatchServlet拦截下来 DispatchServlet调用HandlerMapping处理器映射，HandlerMapping根据请求url查找Handler HandlerExecution根据url到springmvc-servlet.xml中查找控制器controller，并将解析后的信息传递给DispatchServlet HandlerAdapter为处理器适配器，按照特定的规则执行Handler Handler让具体的controller执行 controller将执行信息(ModelAndView)返回给HandlerAdapter HandlerAdapter将视图逻辑名或模型传递给DispatchServlet DispatchServlet调用视图解析器(ViewResolver)来解析HandlerAdapter传递的逻辑视图名 视图解析器ViewResolver将解析的逻辑视图名传给DispatchServlet DispatchServlet根据视图解析器解析的结果，调用具体的视图   web.xml
+&amp;lt;?xml version=&amp;#34;1.0&amp;#34; encoding=&amp;#34;UTF-8&amp;#34;?&amp;gt; &amp;lt;web-app xmlns=&amp;#34;http://xmlns.jcp.org/xml/ns/javaee&amp;#34;  xmlns:xsi=&amp;#34;http://www.w3.org/2001/XMLSchema-instance&amp;#34;  xsi:schemaLocation=&amp;#34;http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd&amp;#34;  version=&amp;#34;4.0&amp;#34;&amp;gt;   &amp;lt;!--注册DispatchServlet--&amp;gt;  &amp;lt;servlet&amp;gt;  &amp;lt;servlet-name&amp;gt;springmvc&amp;lt;/servlet-name&amp;gt;  &amp;lt;servlet-class&amp;gt;org.springframework.web.servlet.DispatcherServlet&amp;lt;/servlet-class&amp;gt;  &amp;lt;!--关联一个springmvc配置文件：【servlet-name】-servlet.xml--&amp;gt;  &amp;lt;init-param&amp;gt;  &amp;lt;param-name&amp;gt;contextConfigLocation&amp;lt;/param-name&amp;gt;  &amp;lt;param-value&amp;gt;classpath:springmvc-servlet.xml&amp;lt;/param-value&amp;gt;  &amp;lt;/init-param&amp;gt;  &amp;lt;!--启动级别-1--&amp;gt;  &amp;lt;load-on-startup&amp;gt;1&amp;lt;/load-on-startup&amp;gt;  &amp;lt;/servlet&amp;gt;   &amp;lt;!--/匹配所有请求：（不包括.jsp）--&amp;gt;  &amp;lt;!--/*匹配所有请求（包括.jsp）--&amp;gt;  &amp;lt;servlet-mapping&amp;gt;  &amp;lt;servlet-name&amp;gt;springmvc&amp;lt;/servlet-name&amp;gt;  &amp;lt;url-pattern&amp;gt;/&amp;lt;/url-pattern&amp;gt;  &amp;lt;/servlet-mapping&amp;gt;  &amp;lt;/web-app&amp;gt; springmvc-servlet.xml
+&amp;lt;?xml version=&amp;#34;1.</description>
+    </item>
+    
     <item>
       <title>Spring笔记</title>
       <link>https://WangZichen99.github.io/post/springnote/</link>
