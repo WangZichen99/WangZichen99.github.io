@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on My Blog</title>
-    <link>https://WangZichen99.github.io/tags/</link>
-    <description>Recent content in Tags on My Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://WangZichen99.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+    <channel>
+        <title>Tags on wzc blog</title>
+        <link>https://WangZichen99.github.io/tags/</link>
+        <description>Recent content in Tags on wzc blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 09 Jul 2022 11:18:24 +0800</lastBuildDate><atom:link href="https://WangZichen99.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Spring</title>
+        <link>https://WangZichen99.github.io/tags/spring/</link>
+        <pubDate>Sat, 09 Jul 2022 11:18:24 +0800</pubDate>
+        
+        <guid>https://WangZichen99.github.io/tags/spring/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Spring Boot</title>
+        <link>https://WangZichen99.github.io/tags/spring-boot/</link>
+        <pubDate>Sat, 09 Jul 2022 11:18:24 +0800</pubDate>
+        
+        <guid>https://WangZichen99.github.io/tags/spring-boot/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Spring MVC</title>
+        <link>https://WangZichen99.github.io/tags/spring-mvc/</link>
+        <pubDate>Sat, 09 Jul 2022 11:18:24 +0800</pubDate>
+        
+        <guid>https://WangZichen99.github.io/tags/spring-mvc/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>MyBatis</title>
+        <link>https://WangZichen99.github.io/tags/mybatis/</link>
+        <pubDate>Mon, 07 Mar 2022 18:24:52 +0800</pubDate>
+        
+        <guid>https://WangZichen99.github.io/tags/mybatis/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
 </rss>

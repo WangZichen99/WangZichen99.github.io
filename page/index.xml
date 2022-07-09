@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on wzc blog</title>
+        <link>https://WangZichen99.github.io/page/</link>
+        <description>Recent content in Pages on wzc blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 03 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://WangZichen99.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>https://WangZichen99.github.io/archives/</link>
+        <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://WangZichen99.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://WangZichen99.github.io/about/</link>
+        <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://WangZichen99.github.io/about/</guid>
+        <description>&lt;p&gt;他很懒，什么也没有写&amp;hellip;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://WangZichen99.github.io/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://WangZichen99.github.io/links/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://WangZichen99.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://WangZichen99.github.io/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
