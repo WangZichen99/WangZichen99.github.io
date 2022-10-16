@@ -3,10 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://WangZichen99.github.io/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-16T10:22:34+08:00</lastmod>
   </url><url>
     <loc>https://WangZichen99.github.io/categories/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-16T10:22:34+08:00</lastmod>
+  </url><url>
+    <loc>https://WangZichen99.github.io/post/</loc>
+    <lastmod>2022-10-16T10:22:34+08:00</lastmod>
+  </url><url>
+    <loc>https://WangZichen99.github.io/p/puppymoney/</loc>
+    <lastmod>2022-10-16T10:22:34+08:00</lastmod>
+  </url><url>
+    <loc>https://WangZichen99.github.io/tags/</loc>
+    <lastmod>2022-10-16T10:22:34+08:00</lastmod>
+  </url><url>
+    <loc>https://WangZichen99.github.io/tags/%E7%90%86%E8%B4%A2/</loc>
+    <lastmod>2022-10-16T10:22:34+08:00</lastmod>
+  </url><url>
+    <loc>https://WangZichen99.github.io/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-10-16T10:22:34+08:00</lastmod>
+  </url><url>
+    <loc>https://WangZichen99.github.io/p/richfatherpoorfather/</loc>
+    <lastmod>2022-10-15T15:48:50+08:00</lastmod>
   </url><url>
     <loc>https://WangZichen99.github.io/tags/nginx/</loc>
     <lastmod>2022-07-24T00:00:00+00:00</lastmod>
@@ -14,13 +32,7 @@
     <loc>https://WangZichen99.github.io/p/nginxnote/</loc>
     <lastmod>2022-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://WangZichen99.github.io/post/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://WangZichen99.github.io/categories/study-note/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://WangZichen99.github.io/tags/</loc>
+    <loc>https://WangZichen99.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://WangZichen99.github.io/tags/spring/</loc>
@@ -32,7 +44,7 @@
     <loc>https://WangZichen99.github.io/tags/spring-mvc/</loc>
     <lastmod>2022-07-09T11:18:24+08:00</lastmod>
   </url><url>
-    <loc>https://WangZichen99.github.io/p/springboot%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://WangZichen99.github.io/p/springbootnote/</loc>
     <lastmod>2022-07-09T11:18:24+08:00</lastmod>
   </url><url>
     <loc>https://WangZichen99.github.io/archives/</loc>
@@ -44,7 +56,7 @@
     <loc>https://WangZichen99.github.io/about/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://WangZichen99.github.io/categories/reading-note/</loc>
+    <loc>https://WangZichen99.github.io/tags/%E8%87%AA%E6%88%91%E6%8F%90%E5%8D%87/</loc>
     <lastmod>2022-03-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://WangZichen99.github.io/p/cognitiveawaken/</loc>
